@@ -1,1 +1,2 @@
+add_subdirectory(auto_type_deduction)
 add_subdirectory(ext)
